@@ -1,4 +1,4 @@
-class data-types
+class DataTypes
 {
     public static void main (String a[])
     {
@@ -10,8 +10,9 @@ class data-types
         float fl = 6.5f;
         char ch = 'b';
         boolean bl = true;
-        
-       
 
+        System.out.println(num + by + sh + lo + db + fl);
+        System.out.println(ch);
+        System.out.println(bl);
     }
 }

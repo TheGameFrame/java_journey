@@ -1,4 +1,4 @@
-class variables-intergers
+class VariablesIntegers
 {
     public static void main (String a[])
     {
