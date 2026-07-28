@@ -1,0 +1,8 @@
+I know this is not a .java file, but I only added this txt file so we can see which loop to use
+
+While loop - Reading a file
+For Loop - Counting from 1-100
+Do While - Not really used as much, but might still have a use
+
+ex.
+while(i<4) = for(;i<4;)
