@@ -1,5 +1,3 @@
-package java_journey.Day5;
-
 class Computer
 {
     public void playMusic()

@@ -1,4 +1,3 @@
-package java_journey.Day5;
 class Calculator
 {
     int a;

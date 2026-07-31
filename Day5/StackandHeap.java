@@ -1,7 +1,4 @@
 //This contains both Method Overloading AND Stack and Heap
-
-package java_journey.Day5;
-
 class Calculator2
 {
     int num=5;
