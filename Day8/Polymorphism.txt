@@ -1,0 +1,7 @@
+Polymorphism is the way that the same object/reference will have different behavior based on how the instance is created
+
+Poly - many
+morphism - behavior
+
+Compile time - Overriding - A = add(int, int), B = add(int, int, int)  - Different parameters, maybe same method name
+Runtime - Overwriting - A = sub(int, int), B = sub(int, int)  - Same parameters, same method name

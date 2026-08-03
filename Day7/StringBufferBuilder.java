@@ -12,7 +12,7 @@ public class StringBufferBuilder {
         sb.setLength(30); //Sets the length of the string to 30 characters
 
         System.out.println(sb);
-        String str = sb.toString(); //Converts StringBuffer to String
+        //String str = sb.toString(); //Converts StringBuffer to String
 
     }
     
