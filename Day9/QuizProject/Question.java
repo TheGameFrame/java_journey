@@ -1,4 +1,4 @@
-package java_journey.Day9.Project1;
+package java_journey.Day9.QuizProject;
 
 public class Question {
     private int id;
