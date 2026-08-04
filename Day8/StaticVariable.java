@@ -19,11 +19,13 @@ public class StaticVariable {
       obj.brand = "Apple";
       obj.price = 1500;
       obj.name = "Smartphone";
+      obj.network = "5G";
 
       Mobile obj1 = new Mobile();
       obj1.brand = "Samsung";
       obj1.price = 1200;
       obj1.name = "Smartphone";
+      obj1.network = "4G";
 
       obj.show();
       obj1.show();
