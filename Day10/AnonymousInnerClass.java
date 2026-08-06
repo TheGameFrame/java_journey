@@ -1,5 +1,3 @@
-package java_journey.Day10;
-
 class C
 {
     public void show()

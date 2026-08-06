@@ -1,4 +1,3 @@
-package java_journey.Day10;
 enum Status  //constants
 {
     Running, Failed, Pending, Success;

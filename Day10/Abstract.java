@@ -1,4 +1,3 @@
-package java_journey.Day10;
 abstract class Car  //Concept of a car
 {
     public abstract void drive();   //Concpet of driving

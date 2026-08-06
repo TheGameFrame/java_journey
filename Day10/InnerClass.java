@@ -1,4 +1,3 @@
-package java_journey.Day10;
 class A
 {
     int age;

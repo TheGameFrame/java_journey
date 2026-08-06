@@ -1,5 +1,3 @@
-package java_journey.Day10;
-
 abstract class D
 {
     public abstract void show();

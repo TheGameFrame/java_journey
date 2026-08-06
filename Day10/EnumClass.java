@@ -1,4 +1,3 @@
-package java_journey.Day10;
 enum LaptopTypes
 {
     Macbook(2000), XPS(2200), Surface, ThinkPad(1800);

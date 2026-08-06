@@ -1,8 +1,6 @@
 // class - class -> extends
 // class - interface -> implements
 // interface - interface -> extends
-
-package java_journey.Day10;
 interface a  //interface is like a class but the methods are public abstract instead of normal
 {
     int age=44;    //final and static
