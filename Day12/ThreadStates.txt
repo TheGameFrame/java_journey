@@ -1,0 +1,1 @@
+New -> start() -> Runnable -> run() -> (Running -> stop() -> Dead) Running -> sleep(), wait() -> (Waiting -> notify() -> Runnable)
